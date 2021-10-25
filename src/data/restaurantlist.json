@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/restaurants/604x240/shop-1.jpg",
+        "title":"Quickmunch",
+        "specialization":"Fillmore",
+        "foodtype": [
+            {
+                "name": "American"
+            },
+            {
+                "name": "Fast Food"
+            },
+            {
+                "name": "Burger"
+            }
+        ],
+        "description": [
+            {
+                "name": "20-30 Min"
+            },
+            {
+                "name": 4.2
+            },
+            {
+                "name": "2.99 Delivery Fee"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "img":"assets/img/restaurants/604x240/shop-2.jpg",
+        "title":"Mcvolant",
+        "specialization":"Vegiterian",
+        "foodtype": [
+            {
+                "name": "American"
+            },
+            {
+                "name": "Fast Food"
+            },
+            {
+                "name": "Burger"
+            }
+        ],
+        "description": [
+            {
+                "name": "20-30 Min"
+            },
+            {
+                "name": 4.2
+            },
+            {
+                "name": "2.99 Delivery Fee"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "img":"assets/img/restaurants/604x240/shop-3.jpg",
+        "title":"ckickchbox",
+        "specialization":"Specialty Chicken",
+        "foodtype": [
+            {
+                "name": "American"
+            },
+            {
+                "name": "Fast Food"
+            },
+            {
+                "name": "Burger"
+            }
+        ],
+        "description": [
+            {
+                "name": "20-30 Min"
+            },
+            {
+                "name": 4.2
+            },
+            {
+                "name": "2.99 Delivery Fee"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "img":"assets/img/restaurants/604x240/shop-4.jpg",
+        "title":"Lunchbox",
+        "specialization":"Steak House",
+        "foodtype": [
+            {
+                "name": "American"
+            },
+            {
+                "name": "Fast Food"
+            },
+            {
+                "name": "Burger"
+            }
+        ],
+        "description": [
+            {
+                "name": "20-30 Min"
+            },
+            {
+                "name": 4.2
+            },
+            {
+                "name": "2.99 Delivery Fee"
+            }
+        ]
+    }
+]

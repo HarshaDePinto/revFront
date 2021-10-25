@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/deals/360x178/shop-1.jpg",
+        "logo":"assets/img/logo-7.jpg",
+        "title":"Great Burger",
+        "categories":[
+            {
+                "name":"American, "
+            },
+            {
+                "name":"Fast Food"
+            }
+        ],
+        "status":"Closed. Next delivery at 8:30am."
+    },
+    {
+        "id":2,
+        "img":"assets/img/deals/360x178/shop-2.jpg",
+        "logo":"assets/img/logo-6.jpg",
+        "title":"Flavor Town",
+        "categories":[
+            {
+                "name":"Breakfast, "
+            },
+            {
+                "name":"Lunch & Dinner"
+            }
+        ],
+        "status":"Closed. Next delivery at 8:30am."
+    },
+    {
+        "id":3,
+        "img":"assets/img/deals/360x178/shop-3.jpg",
+        "logo":"assets/img/logo-5.jpg",
+        "title":"Big Bites",
+        "categories":[
+            {
+                "name":"Pizzas, "
+            },
+            {
+                "name":"Fast Food"
+            }
+        ],
+        "status":"Closed. Next delivery at 8:30am."
+    },
+    {
+        "id":4,
+        "img":"assets/img/deals/360x178/shop-1.jpg",
+        "logo":"assets/img/logo-7.jpg",
+        "title":"Smile N’ Delight",
+        "categories":[
+            {
+                "name":"Desserts, "
+            },
+            {
+                "name":"Beverages"
+            }
+        ],
+        "status":"Closed. Next delivery at 8:30am."
+    }
+]

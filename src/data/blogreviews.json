@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "userimg":"assets/img/blog-details/40x40/user-1.png",
+        "username":"Sarra",
+        "location":"New York, (NY)",
+        "userpost":"Top Reviewer",
+        "commentdate":"Sep 20, 2020",
+        "rating":4,
+        "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.", 
+        "children": [
+            {
+                "id":11,
+                "userimg":"assets/img/blog-details/40x40/user-2.png",
+                "username":"Sarra",
+                "location":"New York, (NY)",
+                "userpost":"Top Reviewer",
+                "commentdate":"Sep 20, 2020",
+                "rating":4,
+                "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.",
+                "children": []
+            }
+        ]  
+    },
+    {
+        "id":2,
+        "userimg":"assets/img/blog-details/40x40/user-3.png",
+        "username":"Sarra",
+        "location":"New York, (NY)",
+        "userpost":"Top Reviewer",
+        "commentdate":"Sep 20, 2020",
+        "rating":4,
+        "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.",
+        "children":[
+            {
+                "id":21,
+                "userimg":"assets/img/blog-details/40x40/user-1.png",
+                "username":"Sarra",
+                "location":"New York, (NY)",
+                "userpost":"Top Reviewer",
+                "commentdate":"Sep 20, 2020",
+                "rating":4,
+                "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place."
+            }
+        ]
+    },
+    {
+        "id":3,
+        "userimg":"assets/img/blog-details/40x40/user-3.png",
+        "username":"Sarra",
+        "location":"New York, (NY)",
+        "userpost":"Top Reviewer",
+        "commentdate":"Sep 20, 2020",
+        "rating":4,
+        "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.",
+        "children":[]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "tag":"pizza"
+    },
+    {
+        "id":2,
+        "tag":"hot dog"
+    },
+    {
+        "id":3,
+        "tag":"fries"
+    },
+    {
+        "id":4,
+        "tag":"fried chicken"
+    },
+    {
+        "id":5,
+        "tag":"smoky chicken"
+    },
+    {
+        "id":6,
+        "tag":"soup"
+    },
+    {
+        "id":7,
+        "tag":"perry perry"
+    },
+    {
+        "id":8,
+        "tag":"cryspy crunch"
+    },
+    {
+        "id":9,
+        "tag":"green slad"
+    },
+    {
+        "id":10,
+        "tag":"chocolawa"
+    },
+    {
+        "id":11,
+        "tag":"butter bite"
+    },
+    {
+        "id":12,
+        "tag":"chicken role"
+    },
+    {
+        "id":13,
+        "tag":"salmon fish"
+    }
+]

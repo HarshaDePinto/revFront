@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/blog/438x180/shop-2.jpg",
+        "logo":"assets/img/user/user-1.png",
+        "restaurantname":"GSA King Tomato Farm",
+        "userimg":"assets/img/blog-details/40x40/user-2.png",
+        "tag":"Featured",
+        "username":"Sarra",
+        "userpost":"Top Reviewer",
+        "rating":4,
+        "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.",
+        "price":7.99,
+        "distance":"4.0 mi",
+        "userlocation":"New York, (NY)",
+        "commentdate":"Sep 20, 2019"
+    },
+    {
+        "id":2,
+        "img":"assets/img/blog/438x180/shop-3.jpg",
+        "logo":"assets/img/user/user-1.png",
+        "restaurantname":"GSA King Tomato Farm",
+        "userimg":"assets/img/blog-details/40x40/user-3.png",
+        "tag":"Featured",
+        "username":"Sarra",
+        "userpost":"Top Reviewer",
+        "rating":3,
+        "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.",
+        "price":7.99,
+        "distance":"4.0 mi",
+        "userlocation":"New York, (NY)",
+        "commentdate":"Sep 20, 2019"
+    },
+    {
+        "id":3,
+        "img":"assets/img/blog/438x180/shop-1.jpg",
+        "logo":"assets/img/user/user-2.png",
+        "restaurantname":"GSA King Tomato Farm",
+        "userimg":"assets/img/blog-details/40x40/user-1.png",
+        "tag":"Featured",
+        "username":"Sarra",
+        "userpost":"Top Reviewer",
+        "rating":4,
+        "comment":"Delivery was fast and friendly. Food was not great especially the salad. Will not be ordering from again. Too many options to settle for this place.",
+        "price":7.99,
+        "distance":"4.0 mi",
+        "userlocation":"New York, (NY)",
+        "commentdate":"Sep 20, 2019"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/details/dish-1.jpg",
+        "title":"Steak Burger",
+        "qty":2,
+        "price":10.99
+    },
+    {
+        "id":2,
+        "img":"assets/img/details/dish-2.jpg",
+        "title":"Cheese Burger",
+        "qty":2,
+        "price":7.25
+    },
+    {
+        "id":3,
+        "img":"assets/img/details/dish-3.jpg",
+        "title":"Double Burger",
+        "qty":2,
+        "price":7.75
+    },
+    {
+        "id":4,
+        "img":"assets/img/details/dish-4.jpg",
+        "title":"Big Cheese Burger",
+        "qty":2,
+        "price":15.3
+    },
+    {
+        "id":5,
+        "img":"assets/img/details/dish-5.jpg",
+        "title":"Cheesy Fries",
+        "qty":2,
+        "price":2.75
+    }
+]

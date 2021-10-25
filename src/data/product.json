@@ -1,0 +1,152 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/restaurants/255x150/shop-23.jpg",
+        "discount":10,
+        "discountprice":3,
+        "calories":"600-700",
+        "title": "Great Burger",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...",
+        "time": "30-40",
+        "price": 10,
+        "rating": 3.1,
+        "totalRating": 4225,
+        "categories": [
+            {
+                "name": "American, "
+            },
+            {
+                "name": "Fast Food"
+            }
+        ],
+        "flavors": ["leaf", "chili", "chef", "protein", "lemon"],
+        "trending": false,
+        "label":true,
+        "combo":true
+    },
+    {
+        "id":2,
+        "img":"assets/img/restaurants/255x150/shop-2.jpg",
+        "discount":"",
+        "discountprice":3,
+        "calories":"600-700",
+        "title": "Flavor Town",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...",
+        "time": "30-40",
+        "price": 10,
+        "rating": 2.1,
+        "totalRating": 4225,
+        "categories": [
+            {
+                "name": "Breakfast, "
+            },
+            {
+                "name": "Lunch & Dinner"
+            }
+        ],
+        "flavors": ["chili-1", "leaf", "lemon"],
+        "trending": false,
+        "label":true,
+        "combo":true
+    },
+    {
+        "id":3,
+        "img":"assets/img/restaurants/255x150/shop-3.jpg",
+        "discount":"",
+        "discountprice":3,
+        "calories":"600-700",
+        "title": "Big Bites",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...",
+        "time": "30-40",
+        "price": 10,
+        "rating": 4.5,
+        "totalRating": 4225,
+        "categories": [
+            {
+                "name": "Pizzas, "
+            },
+            {
+                "name": "Fast Food"
+            }
+        ],
+        "flavors": ["chef", "leaf"],
+        "trending": true,
+        "label":true,
+        "combo":true
+    },
+    {
+        "id":4,
+        "img":"assets/img/restaurants/255x150/shop-4.jpg",
+        "discount":"",
+        "discountprice":3,
+        "calories":"600-700",
+        "title": "Smile N’ Delight",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...",
+        "time": "30-40",
+        "price": 10,
+        "rating": 4.5,
+        "totalRating": 4225,
+        "categories": [
+            {
+                "name": "Desserts, "
+            },
+            {
+                "name": "Beverages"
+            }
+        ],
+        "flavors": ["chef", "protein", "lemon"],
+        "trending": true,
+        "label":true,
+        "combo":true
+    },
+    {
+        "id":5,
+        "img":"assets/img/restaurants/255x150/shop-5.jpg",
+        "discount":20,
+        "discountprice":3,
+        "calories":"600-700",
+        "title": "Lil Johnny’s",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...",
+        "time": "30-40",
+        "price": 10,
+        "rating": 2.1,
+        "totalRating": 4225,
+        "categories": [
+            {
+                "name": "Continental & Mexican"
+            }
+        ],
+        "flavors": ["protein"],
+        "trending": false,
+        "label":true,
+        "combo":true
+    },
+    {
+        "id":6,
+        "img":"assets/img/restaurants/255x150/shop-6.jpg",
+        "discount":"",
+        "discountprice":3,
+        "calories":"600-700",
+        "title": "Choice Foods",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...",
+        "time": "30-40",
+        "price": 10,
+        "rating": 4.5,
+        "totalRating": 4225,
+        "categories": [
+            {
+                "name": "Indian,"
+            },
+            {
+                "name": "Chinese,"
+            },
+            {
+                "name": "Tandoor"
+            }
+        ],
+        "flavors": ["chef","protein","lemon"],
+        "trending": false,
+        "label":true,
+        "combo":true
+    }
+]
